@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay – Aspiring Data Analyst
 
-![Banner](https://media.istockphoto.com/id/1488294044/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-and-kpi.jpg?s=1024x1024&w=is&k=20&c=VpSNiVam6Fw3egrJYnP28mEEAXyCjFRjqV_k4PK5S04=)
+![Banner](https://png.pngtree.com/thumb_back/fw800/background/20240715/pngtree-futuristic-data-analytics-dashboard-image_16012317.jpg)
 
 ## 🔧 Skills & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
