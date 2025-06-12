@@ -19,14 +19,14 @@ Passionate Data Analyst skilled in **Python**, **SQL**, **Excel**, **Power BI*
 ## 📌 Project Dashboards
 
 ### 🏢 HR Analytics Dashboard  
-![HR Analytics Dashboard](assets/hr-analytics-dashboard.png)  
+[HR Analytics Dashboard] 
 Power BI dashboard providing insights on headcount, turnover rates, attrition by department/gender, and hiring pipeline trends.  
 **Tech:** Power BI, SQL, Excel
 
 ---
 
 ### 🧭 Adventure Trips Dashboard  
-![Adventure Trips Dashboard](assets/adventure-dashboard.png)  
+[Adventure Trips Dashboard]  
 Interactive dashboard depicting trip counts, route popularity, user feedback, and travel expense trends.  
 **Tech:** Power BI, Tableau, Python
 
