@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ajay – Aspiring Data Analyst
 
-![Profile Banner](https://raw.githubusercontent.com/Ajaycn-17/Ajaycn-17/main/assets/banner.png)
 
 ## 🔧 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -18,12 +17,11 @@ Data analyst skilled in **Python**, **SQL**, **Excel**, **Power BI**, and **Ta
 
 ## 📂 Projects
 ### HR Analytics
-![Dashboard Preview](assets/sales-dashboard.png)  
 **Tech:** Power BI, SQL, Excel  
 Showcase seasonal trends, KPI tracking, and strategic recommendations.
 
 ### Customer Segmentation
-![Clustering Chart](assets/customer-segmentation.png)  
+
 **Tech:** Python (Pandas, Scikit-learn), Tableau  
 Segmented customers using clustering and visualized profiles.
 
