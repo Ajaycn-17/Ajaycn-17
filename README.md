@@ -17,7 +17,7 @@ Data analyst skilled in **Python**, **SQL**, **Excel**, **Power BI**, and **Ta
 - 📈 Created interactive **Tableau visualizations** highlighting revenue drivers.
 
 ## 📂 Projects
-### Sales & Growth Dashboard
+### HR Analytics
 ![Dashboard Preview](assets/sales-dashboard.png)  
 **Tech:** Power BI, SQL, Excel  
 Showcase seasonal trends, KPI tracking, and strategic recommendations.
@@ -27,10 +27,7 @@ Showcase seasonal trends, KPI tracking, and strategic recommendations.
 **Tech:** Python (Pandas, Scikit-learn), Tableau  
 Segmented customers using clustering and visualized profiles.
 
-### Automation Pipeline
-![ETL Flow](assets/etl-flow.png)  
-**Tech:** Python, SQL  
-Automated data ingestion, cleaning, and report generation.
+
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaycn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
